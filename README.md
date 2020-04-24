@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+In my first lab is very basic.  The code constructs a tall house made out of basic shapes.  You can view it by clicking [here](https://github.com/LyndenJT17/MAGD-150-Assignments/blob/gh-pages/s20magd150lab01_Lynden_2020_04_24_18_41_30.zip)
 
-You can use the [editor on GitHub](https://github.com/LyndenJT17/MAGD-150-Assignments/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+The seond lab is supposed to appear as a mini solar system.  There are multiple different shapes with different colors.  
+You can view it by clicking [here](https://github.com/LyndenJT17/MAGD-150-Assignments/blob/gh-pages/s20magd150lab02_Lynden_2020_04_24_18_41_47.zip)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My third lab creates two ellipes.  One ellipse follow to mouse everywhere it goes.  The second ellipse will follow the mouse on a vertical axis.  Click [here](https://github.com/LyndenJT17/MAGD-150-Assignments/blob/gh-pages/s20magd150lab03_Lynden_2020_04_24_18_42_00.zip)
 
-### Markdown
+My fifth lab creates a tv and a remote control.  The remote control has two text labeled buttons.  One changes the screen to a random color and the other button makes the triangle move left and right when clicked. [click here](https://github.com/LyndenJT17/MAGD-150-Assignments/blob/gh-pages/s20magd150lab05_Lynden_2020_04_24_18_43_15.zip)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LyndenJT17/MAGD-150-Assignments/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+My seventh lab creates trees.  It allows you to create multiple trees of the same shape and size without having to write a paragraph of code.  [view by clicking here](https://github.com/LyndenJT17/MAGD-150-Assignments/blob/gh-pages/s20magd150lab07_Lynden_2020_04_24_18_45_31.zip)
